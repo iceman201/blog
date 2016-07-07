@@ -1,14 +1,14 @@
 # Site
 title:              Liguo Jiao
-bio:                'Minimal, one column jekyll theme.'
-description:        "My first Jekyll web page."
+bio:                'iOS Developer | UI/UX Designer | Amateur Cook'
+description:        "Liguo Jiao, Software Engineer, New Zealand."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/logo-icon.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://blog.jiao.co.nz/
+url:                http://localhost:9000 #https://blog.jiao.co.nz/
 
 # Jekyll
 permalink:          /:title/
