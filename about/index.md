@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Me
 tags: [about, me, Liguo Jiao, University of Canterbury, software developer, iOS Developer]
 date: 2016-07-07
 comments: false
