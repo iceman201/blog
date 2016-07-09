@@ -11,7 +11,7 @@ comments: false
 
 # Getting into Web?
 
-last time I touch website development thats like ages ago possiblely html1.0? windows me just release? if I didnt remember wrong. My school teach were teaching us use MS Front page and Dreamweaver. And I found out HTML is so hard to read because those <> </> such symbols, so I give it up.
+last time I touch website development thats like ages ago possiblely html1.0? windows me just release? if I didnt remember wrong. My school teacher were teaching us use MS Front page and Dreamweaver. And I found out HTML is so hard to read because those <> </> such symbols, so I give it up.
 
 After University study, I did algorithm, computer graphic, embedded system, network and communication, automaton design, but website development. After graduate from university, I saw there were huge demande of web developer. Not only senior or intermedia web developer, but also junior or graduate web developer. It remind me a question, the furture.
 
