@@ -16,7 +16,7 @@ comments: false
 <img src="/assets/blogImages/interface-before.png">
 <img src="/assets/blogImages/interface-after1.png">
 <img src="/assets/blogImages/interface-after2.png">
-<figcaption>For user checking what exercise they have done and delete record.</figcaption>
+<figcaption>left-side is the old design, middle and right-side are the latest.</figcaption>
 </figure>
 
 Left-side is the old design, pretty rough. I dont want release my app with a such ugly interface.
