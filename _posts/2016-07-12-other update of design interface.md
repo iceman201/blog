@@ -31,6 +31,7 @@ let GWMColorLightGray = UIColor(red: 233.0/255.0, green: 236.0/255.0, blue: 237.
 let GWMColorGold = UIColor(red: 253.0/255.0, green: 210.0/255.0, blue: 72.0/255.0, alpha: 1.0)
 
 let GWMColorBackground = UIColor(red: (65.0 / 255.0), green: (65.0 / 255.0), blue: (65.0 / 255.0), alpha: 1.0)
+let GWMColorYellow = UIColor(red: (221.0 / 255.0), green: (255.0 / 255.0), blue: (112.0 / 255.0), alpha: 1.0)
 ```
 
 
