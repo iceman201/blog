@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GymWorkOut Application Project"
-date:   2016-07-01
+date:   2016-07-08
 excerpt: "Project blog"
 project: true
 

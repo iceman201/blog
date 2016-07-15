@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting into Web?"
-date:   2016-07-01
+date:   2016-07-07
 excerpt: "The Future Of Apps Is The Mobile Web, The Future Of The Mobile Web Is Apps"
 
 tag:

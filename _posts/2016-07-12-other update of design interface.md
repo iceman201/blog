@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New update design"
-date:   2016-07-01
+date:   2016-07-12
 excerpt: "a tiny little update of UI"
 project: true
 
