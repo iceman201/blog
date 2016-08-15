@@ -8,7 +8,8 @@ project: true
 tag:
 - TestFlight
 
-comments: true
+comments: false
+
 ---
 
 # TestFlight Release
