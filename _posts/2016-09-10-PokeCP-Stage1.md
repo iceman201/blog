@@ -3,6 +3,7 @@ layout: post
 title:  "Poke CP"
 date:   2016-09-10
 excerpt: "My second iOS project"
+project: true
 
 tag:
 - PokemonGo
